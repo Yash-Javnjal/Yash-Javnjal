@@ -122,77 +122,28 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- SYSTEM CAPABILITIES -->
+<!-- THE DEVELOPER REALITY - AVENGERS MEME -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🛰️ `SYSTEM_CAPABILITIES`
+## 🎬 `14_MILLION_FUTURES`
 
 <br/>
 
-<table>
-<tr>
-<td width="50%">
+<img src="./image.jpg" width="450" alt="Developer Reality"/>
 
-### `🎨 FRONTEND_ENGINEERING`
-```yaml
-Status: OPERATIONAL
-Modules:
-  - Responsive Design Systems
-  - Component Architecture  
-  - CSS Animations & GSAP
-  - React Ecosystem
-  - UI/UX Implementation
+<br/><br/>
+
 ```
-
-</td>
-<td width="50%">
-
-### `⚙️ BACKEND_ARCHITECTURE`
-```yaml
-Status: OPERATIONAL
-Modules:
-  - Node.js Runtime
-  - Express Framework
-  - REST API Design
-  - Database Integration
-  - Server Management
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   "In 14,000,605 futures... my code ran in just ONE."      │
+│                                                             │
+│                        — Every Developer Ever               │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### `☁️ CLOUD_DEPLOYMENT`
-```yaml
-Status: OPERATIONAL
-Modules:
-  - Firebase Services
-  - Vercel Deployment
-  - CI/CD Pipelines
-  - Cloud Functions
-  - Real-time Database
-```
-
-</td>
-<td width="50%">
-
-### `🔒 SYSTEM_SECURITY`
-```yaml
-Status: OPERATIONAL
-Modules:
-  - Authentication Systems
-  - Input Validation
-  - Secure API Design
-  - Environment Security
-  - Data Protection
-```
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -205,26 +156,22 @@ Modules:
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS -->
+<!-- MOST USED LANGUAGES - AUTO UPDATING -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 📊 `SYSTEM_ANALYTICS`
+## 📊 `MOST_USED_LANGUAGES`
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yash-Javnjal&show_icons=true&theme=gotham&hide_border=true&bg_color=0B0F19&title_color=00F5FF&icon_color=8A2BE2&text_color=FFFFFF&ring_color=00F5FF"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Yash-Javnjal&theme=gotham&hide_border=true&background=0B0F19&stroke=00F5FF&ring=00F5FF&fire=8A2BE2&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=888888"/>
+<!-- Auto-updating from GitHub -->
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Javnjal&layout=donut-vertical&theme=gotham&hide_border=true&bg_color=0B0F19&title_color=00F5FF&text_color=FFFFFF"/>
 
 <br/><br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Javnjal&layout=compact&theme=gotham&hide_border=true&bg_color=0B0F19&title_color=00F5FF&text_color=FFFFFF"/>
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Javnjal&theme=react-dark&bg_color=0B0F19&color=00F5FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true"/>
+<!-- GitHub Stats - Live -->
+<img width="55%" src="https://github-readme-stats.vercel.app/api?username=Yash-Javnjal&show_icons=true&theme=gotham&hide_border=true&bg_color=0B0F19&title_color=00F5FF&icon_color=8A2BE2&text_color=FFFFFF&ring_color=00F5FF"/>
 
 </div>
 
@@ -306,6 +253,5 @@ Modules:
                     ALL SYSTEMS OPERATIONAL ● ONLINE
 ═══════════════════════════════════════════════════════════════════
 ```
-
 
 </div>

@@ -307,6 +307,5 @@ Modules:
 ═══════════════════════════════════════════════════════════════════
 ```
 
-<sub>⚡ Powered by Obsession & Late Night Code ⚡</sub>
 
 </div>

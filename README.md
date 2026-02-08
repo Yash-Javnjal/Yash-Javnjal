@@ -58,7 +58,7 @@
 
 <div align="center">
 
-## 🔥 `LANGUAGE_DOMINANCE_REACTOR`
+## 🔥 `LANGUAGES`
 
 <br/>
 
@@ -127,65 +127,21 @@
 
 <div align="center">
 
-## 🎬 `14_MILLION_FUTURES`
-
-<br/>
-
 <img src="./image.jpg" width="450" alt="Developer Reality"/>
-
-<br/><br/>
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   "In 14,000,605 futures... my code ran in just ONE."      │
-│                                                             │
-│                        — Every Developer Ever               │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+<br/>
 
 </div>
 
-<br/>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- MOST USED LANGUAGES - AUTO UPDATING -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 📊 `MOST_USED_LANGUAGES`
 
-<br/>
-
-<!-- Auto-updating from GitHub -->
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Javnjal&layout=donut-vertical&theme=gotham&hide_border=true&bg_color=0B0F19&title_color=00F5FF&text_color=FFFFFF"/>
-
-<br/><br/>
-
-<!-- GitHub Stats - Live -->
-<img width="55%" src="https://github-readme-stats.vercel.app/api?username=Yash-Javnjal&show_icons=true&theme=gotham&hide_border=true&bg_color=0B0F19&title_color=00F5FF&icon_color=8A2BE2&text_color=FFFFFF&ring_color=00F5FF"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- CONNECT -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -247,11 +203,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00F5FF,100:0B0F19&height=120&section=footer"/>
 
 <br/>
-
-```
-═══════════════════════════════════════════════════════════════════
-                    ALL SYSTEMS OPERATIONAL ● ONLINE
-═══════════════════════════════════════════════════════════════════
-```
 
 </div>

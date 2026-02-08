@@ -5,10 +5,11 @@
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9A%A1+INITIALIZING+DEVELOPER+PROFILE...;%F0%9F%94%93+ACCESS+GRANTED;%F0%9F%9A%80+WELCOME+TO+THE+SYSTEM" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9A%A1+INITIALIZING+DEVELOPER+PROFILE...;%F0%9F%94%93+ACCESS+GRANTED;alt="Typing SVG" />
 </a>
 
 <br/>
+
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=Yash-Javnjal&style=for-the-badge&color=00F5FF&label=SYSTEM+ACCESS"/>

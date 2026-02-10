@@ -16,7 +16,7 @@
 <br/><br/>
 
 <!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300px" height="400px">
 
 </div>
 
@@ -128,13 +128,8 @@
 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400px" height="500px">
 </div>
-
-
-
-<div align="center">
-
 
 
 <div align="center">
@@ -149,42 +144,6 @@
 
 </div>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- CLASSIFIED SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<details>
-<summary><b>⚠️ CLASSIFIED ACCESS</b></summary>
-<br/>
-
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║                    ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄                    ║
-║                    █ CLASSIFIED TRANSMISSION █                    ║
-║                    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                    ║
-║                                                                   ║
-║          ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░             ║
-║          ░                                          ░             ║
-║          ░     I   B U I L D   S T R U C T U R E    ░             ║
-║          ░                                          ░             ║
-║          ░     I   D E S I G N   S Y S T E M S      ░             ║
-║          ░                                          ░             ║
-║          ░     I   T U R N   I D E A S   I N T O    ░             ║
-║          ░             R E A L I T Y                ░             ║
-║          ░                                          ░             ║
-║          ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░             ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
-</details>
-
-</div>
 
 <br/>
 

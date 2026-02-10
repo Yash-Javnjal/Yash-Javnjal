@@ -1,14 +1,15 @@
 <div align="center">
 
 <!-- Animated Header SVG -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:00F5FF,100:8A2BE2&height=200&section=header&text=SYSTEM%20CORE%20INITIALIZED&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=YASH%20JAVANJAL%20|%20FULL-STACK%20ARCHITECT&descSize=14&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:00F5FF,100:8A2BE2&height=200&section=header&text=SYSTEM%20CORE%20INITIALIZED&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=YASH%20JAVANJAL%20|%20FULL-STACK%20DEVELOPER&descSize=14&descAlignY=55&descAlign=50"/>
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9A%A1+INITIALIZING+DEVELOPER+PROFILE...;%F0%9F%94%93+ACCESS+GRANTED;%F0%9F%9A%80+WELCOME+TO+THE+SYSTEM" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9A%A1+INITIALIZING+DEVELOPER+PROFILE...;%F0%9F%94%93+ACCESS+GRANTED;alt="Typing SVG" />
 </a>
 
 <br/>
+
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=Yash-Javnjal&style=for-the-badge&color=00F5FF&label=SYSTEM+ACCESS"/>
@@ -29,6 +30,7 @@
 ## ⚡ `AGENT_PROFILE`
 
 ```
+<<<<<<< HEAD
 ╔════════════════════════════════════════════════════════════════════╗
 ║                                                                    ║
 ║   ██╗   ██╗ █████╗ ███████╗██╗  ██╗                                ║
@@ -46,6 +48,25 @@
 ║   └────────────────────────────────────────────────────────────┘   ║
 ║                                                                    ║
 ╚════════════════════════════════════════════════════════════════════╝
+=======
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║   ██╗   ██╗ █████╗ ███████╗██╗  ██╗                               ║
+║   ╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║                               ║
+║    ╚████╔╝ ███████║███████╗███████║                               ║
+║     ╚██╔╝  ██╔══██║╚════██║██╔══██║                               ║
+║      ██║   ██║  ██║███████║██║  ██║                               ║
+║      ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝                               ║
+║                                                                   ║
+║   ┌─────────────────────────────────────────────────────────────┐ ║
+║   │  DESIGNATION    :  Full-Stack & Systems Developer          │  ║
+║   │  CLASSIFICATION :  System Architect                        │  ║
+║   │  STATUS         :  ● ACTIVE                                │  ║
+║   │  CLEARANCE      :  LEVEL OMEGA                             │  ║
+║   └─────────────────────────────────────────────────────────────┘ ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+>>>>>>> 4b741ba7c66731ec465ab6f2cb6e846c0137c462
 ```
 
 </div>
@@ -115,9 +136,6 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- THE DEVELOPER REALITY - AVENGERS MEME -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -144,12 +162,43 @@
 
 </div>
 
+<<<<<<< HEAD
+=======
+<div align="center">
+
+<details>
+<summary><b>⚠️ CLASSIFIED ACCESS</b></summary>
+<br/>
+
+```
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║                    ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄                     ║
+║                    █ CLASSIFIED TRANSMISSION █                    ║
+║                    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                    ║
+║                                                                    ║
+║          ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░             ║
+║          ░                                          ░             ║
+║          ░     I   B U I L D   S T R U C T U R E    ░             ║
+║          ░                                          ░             ║
+║          ░     I   D E S I G N   S Y S T E M S      ░             ║
+║          ░                                          ░             ║
+║          ░     I   T U R N   I D E A S   I N T O    ░             ║
+║          ░             R E A L I T Y                ░             ║
+║          ░                                          ░             ║
+║          ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░             ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+```
+
+</details>
+
+</div>
+>>>>>>> 4b741ba7c66731ec465ab6f2cb6e846c0137c462
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- FOOTER -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
 
 <div align="center">
 

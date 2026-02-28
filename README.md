@@ -1,12 +1,116 @@
-# 💫 About Me:
-I’m Yash Javanjal, a full-stack developer who enjoys getting his hands dirty with real-world software — not just toy demos and half-baked ideas.<br><br>I spend my days exploring, building, breaking, and rebuilding modern web systems: from clean front-end interfaces to sturdy back-end services that actually scale when users turn up uninvited.
+<div align="center">
+
+<!-- Animated Header SVG -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:00F5FF,100:8A2BE2&height=200&section=header&text=SYSTEM%20CORE%20INITIALIZED&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=YASH%20JAVANJAL%20|%20FULL-STACK%20DEVELOPER&descSize=14&descAlignY=55&descAlign=50"/>
+
+<!-- Animated Typing -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9A%A1+INITIALIZING+DEVELOPER+PROFILE...;%F0%9F%94%93+ACCESS+GRANTED;alt="Typing SVG" />
+</a>
+
+<br/>
 
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashjavanjal2512@gmail.com) 
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=Yash-Javnjal&style=for-the-badge&color=00F5FF&label=SYSTEM+ACCESS"/>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white)
+<br/><br/>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300px" height="400px">
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- AGENT PROFILE SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ⚡ `AGENT_PROFILE`
+
+```
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║   ██╗   ██╗ █████╗ ███████╗██╗  ██╗                                ║
+║   ╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║                                ║
+║    ╚████╔╝ ███████║███████╗███████║                                ║
+║     ╚██╔╝  ██╔══██║╚════██║██╔══██║                                ║
+║      ██║   ██║  ██║███████║██║  ██║                                ║
+║      ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝                                ║
+║                                                                    ║
+║   ┌────────────────────────────────────────────────────────────┐   ║
+║   │  Passionate Full-Stack Developer                           │   ║
+║   │  Exploring the world of Front-End and Backend              │   ║
+║   │  Focused on crafting practical, real-world systems         │   ║
+║   │  Status: Active                                            │   ║
+║   └────────────────────────────────────────────────────────────┘   ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+
+```
+
+</div>
+
+
+<div align="center">
+
+## 🔥 `LANGUAGES`
+
+
+<!-- Primary Core Languages -->
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML"/>
+<br/><sub><b>HTML</b></sub>
+<br/><sub><code>████████████ 100%</code></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS"/>
+<br/><sub><b>CSS</b></sub>
+<br/><sub><code>███████████░ 95%</code></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript"/>
+<br/><sub><b>JavaScript</b></sub>
+<br/><sub><code>██████████░░ 92%</code></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React"/>
+<br/><sub><b>React</b></sub>
+<br/><sub><code>█████████░░░ 88%</code></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Secondary Arsenal -->
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=express" width="55" height="55" alt="Express"/>
+<br/><sub><b>Express</b></sub>
+<br/><sub><code>████████░░░░ 75%</code></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js"/>
+<br/><sub><b>Node.js</b></sub>
+<br/><sub><code>████████░░░░ 78%</code></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" alt="Firebase"/>
+<br/><sub><b>Firebase</b></sub>
+<br/><sub><code>███████░░░░░ 72%</code></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Yash-Javnjal&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Yash-Javnjal&theme=one_dark_pro&hide_border=false)<br/>
@@ -15,7 +119,47 @@ I’m Yash Javanjal, a full-stack developer who enjoys getting his hands dirty w
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Yash-Javnjal&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Yash-Javnjal&icon=10&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br/>
+
+
+<div align="center">
+
+<img src="./image.jpg" width="450" alt="Developer Reality"/>
+<br/>
+
+</div>
+
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400px" height="500px">
+</div>
+
+
+<div align="center">
+
+## 📡 `ESTABLISH_CONNECTION`
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-javanjal)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yash-Javnjal)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+<br/>
+
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00F5FF,100:0B0F19&height=120&section=footer"/>
+
+<br/>
+
+</div>

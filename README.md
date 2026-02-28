@@ -1,165 +1,84 @@
 <div align="center">
 
-<!-- Animated Header SVG -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:00F5FF,100:8A2BE2&height=200&section=header&text=SYSTEM%20CORE%20INITIALIZED&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=YASH%20JAVANJAL%20|%20FULL-STACK%20DEVELOPER&descSize=14&descAlignY=55&descAlign=50"/>
-
-<!-- Animated Typing -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9A%A1+INITIALIZING+DEVELOPER+PROFILE...;%F0%9F%94%93+ACCESS+GRANTED;alt="Typing SVG" />
-</a>
-
-<br/>
-
-
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=Yash-Javnjal&style=for-the-badge&color=00F5FF&label=SYSTEM+ACCESS"/>
-
-<br/><br/>
-
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300px" height="400px">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0F19&height=160&section=header&text=YASH%20JAVANJAL&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=FULL%20STACK%20DEVELOPER&descSize=14&descAlignY=70"/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- AGENT PROFILE SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+---
+
+## About
+
+I am **Yash Javanjal**, a full-stack developer focused on building clean, reliable, and production-ready software systems.
+
+My work spans frontend interfaces, backend services, and data-driven features, with a consistent emphasis on clarity, performance, and long-term maintainability. I prefer systems that are simple to reason about, easy to extend, and robust under real-world usage.
+
+I value thoughtful design, measured engineering decisions, and calm execution over unnecessary complexity.
+
+---
+
+## Technical Stack
+
+**Frontend**
+- React  
+- JavaScript (ES6+)  
+- CSS3  
+- GreenSock (GSAP)  
+- Chart.js  
+
+**Backend & Core**
+- Java  
+- C  
+- C++  
+
+**Deployment & Tooling**
+- Vercel  
+- Git & GitHub  
+
+---
+
+## Engineering Focus
+
+- Full-stack system design  
+- Frontend performance and motion discipline  
+- Backend fundamentals and data structures  
+- Building features that scale without noise  
+
+---
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash-Javnjal&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Yash-Javnjal&theme=one_dark_pro&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Javnjal&theme=one_dark_pro&hide_border=false&layout=compact)
+
+---
+
+## Contributions
+
+![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=Yash-Javnjal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## Contact
+
+- LinkedIn: https://linkedin.com/in/yash-javanjal  
+- GitHub: https://github.com/Yash-Javnjal  
+- Email: your-email@example.com  
+
+---
 
 <div align="center">
 
-## ⚡ `AGENT_PROFILE`
-
-```
-╔════════════════════════════════════════════════════════════════════╗
-║                                                                    ║
-║   ██╗   ██╗ █████╗ ███████╗██╗  ██╗                                ║
-║   ╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║                                ║
-║    ╚████╔╝ ███████║███████╗███████║                                ║
-║     ╚██╔╝  ██╔══██║╚════██║██╔══██║                                ║
-║      ██║   ██║  ██║███████║██║  ██║                                ║
-║      ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝                                ║
-║                                                                    ║
-║   ┌────────────────────────────────────────────────────────────┐   ║
-║   │  Passionate Full-Stack Developer                           │   ║
-║   │  Exploring the world of Front-End and Backend              │   ║
-║   │  Focused on crafting practical, real-world systems         │   ║
-║   │  Status: Active                                            │   ║
-║   └────────────────────────────────────────────────────────────┘   ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
-
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0F19&height=80&section=footer"/>
 
 </div>
 
 
-<div align="center">
-
-## 🔥 `LANGUAGES`
-
-
-<!-- Primary Core Languages -->
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML"/>
-<br/><sub><b>HTML</b></sub>
-<br/><sub><code>████████████ 100%</code></sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS"/>
-<br/><sub><b>CSS</b></sub>
-<br/><sub><code>███████████░ 95%</code></sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript"/>
-<br/><sub><b>JavaScript</b></sub>
-<br/><sub><code>██████████░░ 92%</code></sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React"/>
-<br/><sub><b>React</b></sub>
-<br/><sub><code>█████████░░░ 88%</code></sub>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Secondary Arsenal -->
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=express" width="55" height="55" alt="Express"/>
-<br/><sub><b>Express</b></sub>
-<br/><sub><code>████████░░░░ 75%</code></sub>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js"/>
-<br/><sub><b>Node.js</b></sub>
-<br/><sub><code>████████░░░░ 78%</code></sub>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" alt="Firebase"/>
-<br/><sub><b>Firebase</b></sub>
-<br/><sub><code>███████░░░░░ 72%</code></sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yash-Javnjal&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yash-Javnjal&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Javnjal&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yash-Javnjal&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<br/>
-
-
-<div align="center">
-
-<img src="./image.jpg" width="450" alt="Developer Reality"/>
-<br/>
-
-</div>
-
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400px" height="500px">
-</div>
-
-
-<div align="center">
-
-## 📡 `ESTABLISH_CONNECTION`
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-javanjal)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yash-Javnjal)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-</div>
-
-<br/>
 
 
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00F5FF,100:0B0F19&height=120&section=footer"/>
 
-<br/>
 
-</div>

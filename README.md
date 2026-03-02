@@ -61,7 +61,10 @@ Some people have a team. I have a keyboard and a problem to solve.
 </div>
 
 <br/>
-
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" >
+<br/>
+<br/>
 
 <div align="center" style="display: flex; gap:10px;">
 
@@ -101,7 +104,7 @@ Some people have a team. I have a keyboard and a problem to solve.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<br/>
+<br/> <br/>
 
 
 <div align="center">
@@ -113,13 +116,13 @@ Some people have a team. I have a keyboard and a problem to solve.
 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400px" height="500px">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 
 <div align="center">
 
-## 📡 `ESTABLISH_CONNECTION`
+## 📡 `Social Links`
 
 <br/>
 

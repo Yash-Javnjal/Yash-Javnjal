@@ -6,7 +6,7 @@
 
 
 <!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300px" height="400px">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1900px" height="400px">
 
 </div>
 
@@ -63,12 +63,24 @@ Some people have a team. I have a keyboard and a problem to solve.
 <br/>
 
 
+#
+<div align="center" style="display: flex; gap:20px; flex-wrap: wrap;">
 
-# 📊 GitHub Stats:
+<div>
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Yash-Javnjal&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Yash-Javnjal&theme=one_dark_pro&hide_border=false)<br/>
- 
- <br><br><br>
+</div>
+
+
+<div>
+
+ ## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Yash-Javnjal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
+
+</div>
 
 
 # Contribution Graph
@@ -80,8 +92,7 @@ Some people have a team. I have a keyboard and a problem to solve.
 
 <br/><br/>
 #
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yash-Javnjal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 
 

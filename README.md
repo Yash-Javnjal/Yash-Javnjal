@@ -77,7 +77,7 @@ Some people have a team. I have a keyboard and a problem to solve.
 <div>
 
  ## 🔝 Top Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Javnjal&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Javnjal&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div>
 
 </div>

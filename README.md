@@ -64,7 +64,7 @@ Some people have a team. I have a keyboard and a problem to solve.
 
 
 #
-<div align="center" style="display: flex; gap:20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; gap:10px;">
 
 <div>
 
@@ -76,8 +76,8 @@ Some people have a team. I have a keyboard and a problem to solve.
 
 <div>
 
- ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yash-Javnjal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+ ## 🔝 Top Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Javnjal&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 </div>

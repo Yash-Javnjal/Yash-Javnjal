@@ -1,84 +1,131 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0F19&height=160&section=header&text=YASH%20JAVANJAL&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=FULL%20STACK%20DEVELOPER&descSize=14&descAlignY=70"/>
+
+<!-- Animated Header SVG -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:00F5FF,100:8A2BE2&height=200&section=header&text=SYSTEM%20CORE%20INITIALIZED&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=YASH%20JAVANJAL%20|%20FULL-STACK%20DEVELOPER&descSize=14&descAlignY=55&descAlign=50"/>
+
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300px" height="400px">
 
 </div>
 
----
 
-## About
 
-I am **Yash Javanjal**, a full-stack developer focused on building clean, reliable, and production-ready software systems.
+<div>
 
-My work spans frontend interfaces, backend services, and data-driven features, with a consistent emphasis on clarity, performance, and long-term maintainability. I prefer systems that are simple to reason about, easy to extend, and robust under real-world usage.
+## `About Me`
 
-I value thoughtful design, measured engineering decisions, and calm execution over unnecessary complexity.
+I'm **Yash Javanjal** — I build things. Full-stack, from the ground up, and I like it that way.
 
----
+Frontend, backend, databases, APIs — I don't pick sides. I just make it work, and make it work well.
 
-## Technical Stack
+Some people have a team. I have a keyboard and a problem to solve.
 
-**Frontend**
-- React  
-- JavaScript (ES6+)  
-- CSS3  
-- GreenSock (GSAP)  
-- Chart.js  
 
-**Backend & Core**
-- Java  
-- C  
-- C++  
 
-**Deployment & Tooling**
-- Vercel  
-- Git & GitHub  
+</div>
 
----
 
-## Engineering Focus
+<br><br><br>
+<div align="center">
 
-- Full-stack system design  
-- Frontend performance and motion discipline  
-- Backend fundamentals and data structures  
-- Building features that scale without noise  
+##  &nbsp; Technical Arsenal &nbsp; 
 
----
+<br/>
 
-## GitHub Activity
+### ⸻ &nbsp; Languages &nbsp; ⸻
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash-Javnjal&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)
+<br/>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Yash-Javnjal&theme=one_dark_pro&hide_border=false)
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp&theme=dark&perline=7" alt="Languages"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Javnjal&theme=one_dark_pro&hide_border=false&layout=compact)
+<br/><br/>
 
----
+### ⸻ &nbsp; Frameworks & Libraries &nbsp; ⸻
 
-## Contributions
+<br/>
 
-![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=Yash-Javnjal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark&perline=7" alt="Frameworks"/>
 
----
+<br/><br/>
 
-## Contact
+### ⸻ &nbsp; Tools & Platforms &nbsp; ⸻
 
-- LinkedIn: https://linkedin.com/in/yash-javanjal  
-- GitHub: https://github.com/Yash-Javnjal  
-- Email: your-email@example.com  
+<br/>
 
----
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark&perline=7" alt="Tools"/>
+
+<br/>
+
+</div>
+
+<br/>
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Yash-Javnjal&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Yash-Javnjal&theme=one_dark_pro&hide_border=false)<br/>
+ 
+ <br><br><br>
+
+
+# Contribution Graph
+<!-- Contribution Graph -->
+<br>
+<a href="https://github.com/Yash-Javnjal">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Javnjal&bg_color=0a0d18&color=8ba4c4&line=c8d6e8&point=6b7c94&area=true&area_color=1a2540&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+</a>
+
+<br/><br/>
+#
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Yash-Javnjal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br/>
+
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0F19&height=80&section=footer"/>
+<img src="./image.jpg" width="450" alt="Developer Reality"/>
+<br/>
 
 </div>
 
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400px" height="500px">
+</div>
+
+
+<div align="center">
+
+## 📡 `ESTABLISH_CONNECTION`
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-javanjal)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yash-Javnjal)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+<br/>
 
 
 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00F5FF,100:0B0F19&height=120&section=footer"/>
 
+<br/>
 
+</div>

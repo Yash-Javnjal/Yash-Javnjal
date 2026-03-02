@@ -6,7 +6,7 @@
 
 
 <!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1900px" height="400px">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" >
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div>
 
-## `About Me`
+## About Me
 
 I'm **Yash Javanjal** — I build things. Full-stack, from the ground up, and I like it that way.
 
@@ -63,13 +63,12 @@ Some people have a team. I have a keyboard and a problem to solve.
 <br/>
 
 
-#
 <div align="center" style="display: flex; gap:10px;">
 
 <div>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yash-Javnjal&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Yash-Javnjal&theme=one_dark_pro&hide_border=false)<br/>
 </div>
 
@@ -77,11 +76,15 @@ Some people have a team. I have a keyboard and a problem to solve.
 <div>
 
  ## 🔝 Top Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Javnjal&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Yash-Javnjal&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div>
 
 </div>
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
+<br/>
 
 # Contribution Graph
 <!-- Contribution Graph -->
@@ -90,10 +93,7 @@ Some people have a team. I have a keyboard and a problem to solve.
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Javnjal&bg_color=0a0d18&color=8ba4c4&line=c8d6e8&point=6b7c94&area=true&area_color=1a2540&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </a>
 
-<br/><br/>
-#
-
-
+<br/>
 
 
 

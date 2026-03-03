@@ -40,15 +40,15 @@ Some people have a team. I have a keyboard and a problem to solve.
 
 <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp&theme=dark&perline=7" alt="Languages"/>
 
-<br/><br/>
+<br/>
 
 ### ⸻ &nbsp; Frameworks & Libraries &nbsp; ⸻
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark&perline=7" alt="Frameworks"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,nodemon,supabase,firebase,express&theme=dark&perline=7" alt="Frameworks"/>
 
-<br/><br/>
+<br/>
 
 ### ⸻ &nbsp; Tools & Platforms &nbsp; ⸻
 
@@ -70,7 +70,7 @@ Some people have a team. I have a keyboard and a problem to solve.
 
 <div>
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Yash-Javnjal&theme=one_dark_pro&hide_border=false)<br/>
 </div>
@@ -78,7 +78,7 @@ Some people have a team. I have a keyboard and a problem to solve.
 
 <div>
 
- ## 🔝 Top Languages
+ ## Top Languages
 ![](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Yash-Javnjal&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div>
 
@@ -122,13 +122,13 @@ Some people have a team. I have a keyboard and a problem to solve.
 
 <div align="center">
 
-## 📡 `Social Links`
+## `Social Links`
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-javanjal)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-javanjal-264150306/)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yash-Javnjal)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashjavanjal2512@gmail.com)
 
 </div>
 

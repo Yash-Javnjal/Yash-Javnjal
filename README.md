@@ -40,7 +40,7 @@ Always exploring new technologies to build better digital products.
 <div align="center">
 
 <table>
-<tr>
+
 <td align="center" width="50%">
 
 ###  FRONTEND
@@ -62,7 +62,7 @@ Always exploring new technologies to build better digital products.
 | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
 
 </td>
-</tr>
+
 </table>
 
 </div>
@@ -78,7 +78,7 @@ Always exploring new technologies to build better digital products.
 
 <br/>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Yash-Javnjal&theme=dark&hide_border=true&background=0D0D0D&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=888888&stroke=333333)
+![](https://nirzak-streak-stats.vercel.app/?user=Yash-Javnjal&theme=one_dark_pro&hide_border=false)
 
 <br/>
 

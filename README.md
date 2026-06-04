@@ -1,128 +1,104 @@
 <div align="center">
-
-
-<!-- Animated Header SVG -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:00F5FF,100:8A2BE2&height=200&section=header&text=SYSTEM%20CORE%20INITIALIZED&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=YASH%20JAVANJAL%20|%20FULL-STACK%20DEVELOPER&descSize=14&descAlignY=55&descAlign=50"/>
-
-
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" >
-
+  <img width="100%" src="./image.png" alt="Hello World — Yash Javanjal" />
 </div>
+
+<br>
+
+<table>
+<tr>
+<td width="60%">
+
+# 👋 I'M YASH!
+### FULL STACK DEVELOPER
+
+&nbsp;&nbsp;I engineer scalable web applications and intuitive user interfaces. Passionate about clean code, robust architecture, and bridging the gap between complex backend logic and seamless frontend experiences.
+
+Always exploring new technologies to build better digital products.
+
+> *"Some people have a team. I have a keyboard and a problem to solve."*
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="./image-1.png" width="320" alt="Yash " />
+
+</td>
+</tr>
+</table>
+<br clear="right"/>
+
+---
 
 
 
 <div>
 
-## About Me
-
-I'm **Yash Javanjal** — I build things. Full-stack, from the ground up, and I like it that way.
-
-Frontend, backend, databases, APIs — I don't pick sides. I just make it work, and make it work well.
-
-Some people have a team. I have a keyboard and a problem to solve.
 
 
-
-</div>
-
-
-<br><br><br>
+##  `TECH STACK`
 <div align="center">
 
-##  &nbsp; Technical Arsenal &nbsp; 
+<table>
+<tr>
+<td align="center" width="50%">
 
-<br/>
+###  FRONTEND
 
-### ⸻ &nbsp; Languages &nbsp; ⸻
+| | | |
+|:-:|:-:|:-:|
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
 
-<br/>
+</td>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp&theme=dark&perline=7" alt="Languages"/>
+<td align="center" width="50%">
 
-<br/>
+###  BACKEND
 
-### ⸻ &nbsp; Frameworks & Libraries &nbsp; ⸻
+| | | |
+|:-:|:-:|:-:|
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,nodemon,supabase,firebase,express&theme=dark&perline=7" alt="Frameworks"/>
-
-<br/>
-
-### ⸻ &nbsp; Tools & Platforms &nbsp; ⸻
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark&perline=7" alt="Tools"/>
-
-<br/>
-
-</div>
-
-<br/>
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" >
-<br/>
-<br/>
-
-<div align="center" style="display: flex; gap:10px;">
-
-<div>
-
-## GitHub Stats:
-
-![](https://nirzak-streak-stats.vercel.app/?user=Yash-Javnjal&theme=one_dark_pro&hide_border=false)<br/>
-</div>
-
-
-<div>
-
- ## Top Languages
-![](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Yash-Javnjal&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</div>
+</td>
+</tr>
+</table>
 
 </div>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br>
+</div>
+
+---
+
+<div align="center">
+
+## 📊 `GITHUB ACTIVITY`
+
 <br/>
 
-# Contribution Graph
-<!-- Contribution Graph -->
-<br>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Yash-Javnjal&theme=dark&hide_border=true&background=0D0D0D&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=888888&stroke=333333)
+
+<br/>
+
+![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Yash-Javnjal&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFD700&text_color=cccccc&include_all_commits=true&count_private=false&layout=compact)
+
+<br/>
+
+## 📈 `CONTRIBUTION GRAPH`
+
 <a href="https://github.com/Yash-Javnjal">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Javnjal&bg_color=0a0d18&color=8ba4c4&line=c8d6e8&point=6b7c94&area=true&area_color=1a2540&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Javnjal&bg_color=0a0a0a&color=FFD700&line=b8860b&point=FFD700&area=true&area_color=1a1200&hide_border=true&custom_title=Contribution%20Graph"/>
 </a>
 
-<br/>
-
-
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<br/> <br/>
-
-
-<div align="center">
-
-<img src="./image.jpg" width="450" alt="Developer Reality"/>
-<br/>
-
-</div>
-
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
+---
 
 <div align="center">
 
-## `Social Links`
+## 🌐 `CONNECT WITH ME`
 
 <br/>
 
@@ -130,16 +106,11 @@ Some people have a team. I have a keyboard and a problem to solve.
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yash-Javnjal)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashjavanjal2512@gmail.com)
 
-</div>
+
+
 
 <br/>
 
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00F5FF,100:0B0F19&height=120&section=footer"/>
-
-<br/>
+*© 2025 Yash Javanjal · Built with passion*
 
 </div>

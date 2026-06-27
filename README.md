@@ -21,8 +21,8 @@ Always exploring new technologies to build better digital products.
 
 <td width="40%" align="center">
 
-<img src="./image-1.png" width="320" alt="Yash " />
-
+[<img src="./image-1.png" width="320" alt="Yash " />
+](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRReyvMxp3U-_DHT-tEnyNmxqgokJ577aWaX428UkNi3w99KkqrwGTR8Mj-&s=10)
 </td>
 </tr>
 </table>
